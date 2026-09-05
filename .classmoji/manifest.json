@@ -1,0 +1,38 @@
+{
+  "repositories": {
+    "assig3-vending": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "c9ab8446-26c4-4365-9c2b-ac2c9022be4d": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "dna-decoder": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "91b881d9-463c-4cf1-a563-3bd0c53a6e82": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "github-intro-c-hello": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "d8dfed16-c2b2-4628-b5e7-780270776a5c": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    }
+  },
+  "general": {
+    "pages": [],
+    "slides": []
+  }
+}
